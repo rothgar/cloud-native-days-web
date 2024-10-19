@@ -1,0 +1,19 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "events"
+pre = "location-dot"
+pageRef = "events/"
+identifier = "56fSZffm22"
+weight = 8000
+
+[[main]]
+name = "About"
+pre = "globe"
+pageRef = "/about"
+identifier = "oLoJiRRx1S"
+weight = 9999
+
+[[footer]]
+none = "none"

@@ -1,0 +1,3 @@
+baseURL = 'https://cloudnativedays.org/'
+languageCode = 'en-us'
+title = 'Cloud Native Days'

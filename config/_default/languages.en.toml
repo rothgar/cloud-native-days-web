@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Cloud Native Days"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "logo.png"
+description = "Events focused on open source and cloud native practices."
