@@ -1,13 +1,15 @@
 colorScheme = "blowfish"
 defaultAppearance = "light"
 autoSwitchAppearance = true
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 replyByEmail = false
 disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
+defaultBackgroundImage = "."
+defaultFeaturedImage = "cnd-hero.png"
 
 [header]
 layout = "basic"
@@ -25,9 +27,10 @@ showRecent = "yes"
 showRecentItems = "5"
 showMoreLink = "yes"
 showMoreLinkDest = "/posts/"
-cardView = false
+cardView = true
 cardViewScreenWidth = "yes"
 layoutBackgroundBlur = "yes"
+homepageImage = "cnd-hero.png"
 
 [article]
 showDate = true
@@ -47,11 +50,11 @@ seriesOpened = false
 showHeadingAnchors = true
 showPagination = true
 invertPagination = false
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = false
 showTaxonomies = false
 showAuthorsBadges = false
-showWordCount = true
+showWordCount = false
 showZenMode = false
 
 [list]
@@ -88,7 +91,7 @@ showBreadcrumbs = false
 showViews = false
 showLikes = false
 showTableOfContents = true
-groupByYear = false
+groupByYear = true
 cardView = false
 cardViewScreenWidth = false
 
