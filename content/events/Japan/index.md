@@ -1,5 +1,5 @@
 ---
-title: "Los Angeles"
+title: "Japan"
 date: 2024-11-28
 draft: false
 description: "Cloud Native Days Japan"
