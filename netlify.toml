@@ -1,7 +1,7 @@
 # netlify.toml
 
 [build]
-  command = "git submodule update --init --recursive && hugo --gc --minify -b $URL"
+  command = "git submodule update --init --recursive && rm -rf themes/blowfish/exampleSite && hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
