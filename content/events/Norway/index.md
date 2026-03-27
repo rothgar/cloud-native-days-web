@@ -1,5 +1,5 @@
 ---
-title: "Noray"
+title: "Norway"
 date: 2026-10-25
 draft: false
 description: "Cloud Native Days Norway"
